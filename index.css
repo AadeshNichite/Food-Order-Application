@@ -1,0 +1,11 @@
+/* Normal css 
+SCSS
+Inline CSS
+Component Libraries - Material UI, Base UI, Ant , Chakara etc 
+styled components
+
+Tailwind css framework */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

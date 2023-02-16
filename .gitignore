@@ -1,0 +1,11 @@
+.parcel-cache/
+
+dist/
+
+node_modules/
+
+# Package Lock File
+package-lock.json
+
+# Babel File 
+.babelrc
